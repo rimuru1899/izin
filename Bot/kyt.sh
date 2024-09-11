@@ -54,7 +54,7 @@ pip3 install -r kyt/requirements.txt >/dev/null 2>&1
 clear
 #isi data
 echo ""
-figlet  ARI BOT  | lolcat
+figlet  RIMURU TUNNELING  | lolcat
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e " \e[1;97;101m             ADD BOT PANEL               \e[0m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
